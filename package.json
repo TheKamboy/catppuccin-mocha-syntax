@@ -1,7 +1,7 @@
 {
   "name": "catppuccin-mocha-syntax",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a port of catppuccin mocha to pulsar/atom",
   "keywords": [
     "syntax",
