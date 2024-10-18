@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/catppuccin-mocha-syntax",
+  "repository": "https://github.com/TheKamboy/catppuccin-mocha-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
