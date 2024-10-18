@@ -1,0 +1,7 @@
+== catppuccin-mocha-syntax theme
+
+NOTE: This was made for the continuation of the Atom Editor, https://pulsar-edit.dev/[Pulsar]. I have no clue if it works with the original version of Atom (or why you would use an unmaintained version of Atom), but it might. Don't ask me to fix bugs related to old versions of Atom though.
+
+I saw no one make a https://catppuccin.com/[Catppuccin] theme for atom, so here is mine.
+
+image::https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif[A screenshot of your theme]
