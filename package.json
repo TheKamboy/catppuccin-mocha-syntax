@@ -1,8 +1,8 @@
 {
   "name": "catppuccin-mocha-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "a port of catppuccin mocha to pulsar/atom",
   "keywords": [
     "syntax",
     "theme"
